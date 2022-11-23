@@ -1,0 +1,15 @@
+/Users/arturarutunan/Projects/piano/piano/bin/Debug/net6.0/piano
+/Users/arturarutunan/Projects/piano/piano/bin/Debug/net6.0/piano.deps.json
+/Users/arturarutunan/Projects/piano/piano/bin/Debug/net6.0/piano.runtimeconfig.json
+/Users/arturarutunan/Projects/piano/piano/bin/Debug/net6.0/piano.dll
+/Users/arturarutunan/Projects/piano/piano/bin/Debug/net6.0/piano.pdb
+/Users/arturarutunan/Projects/piano/piano/obj/Debug/net6.0/piano.csproj.AssemblyReference.cache
+/Users/arturarutunan/Projects/piano/piano/obj/Debug/net6.0/piano.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturarutunan/Projects/piano/piano/obj/Debug/net6.0/piano.AssemblyInfoInputs.cache
+/Users/arturarutunan/Projects/piano/piano/obj/Debug/net6.0/piano.AssemblyInfo.cs
+/Users/arturarutunan/Projects/piano/piano/obj/Debug/net6.0/piano.csproj.CoreCompileInputs.cache
+/Users/arturarutunan/Projects/piano/piano/obj/Debug/net6.0/piano.dll
+/Users/arturarutunan/Projects/piano/piano/obj/Debug/net6.0/refint/piano.dll
+/Users/arturarutunan/Projects/piano/piano/obj/Debug/net6.0/piano.pdb
+/Users/arturarutunan/Projects/piano/piano/obj/Debug/net6.0/piano.genruntimeconfig.cache
+/Users/arturarutunan/Projects/piano/piano/obj/Debug/net6.0/ref/piano.dll
